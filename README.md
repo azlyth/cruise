@@ -9,7 +9,7 @@ Stress free HTTP monitoring for your Kubernetes hosted Web Applications.
 ## Overview
 Cruise automatically configures HTTP monitoring of Kubernetes Ingress resources.
 
-Read the [annoucement here][3].
+Read the [announcement here][3].
 
 ## Installation
 
