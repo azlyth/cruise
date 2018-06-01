@@ -15,7 +15,7 @@ Read the [annoucement here][3].
 
 1. Deploy Cruise to your cluster
     ```
-    % kubectl apply -f https://github.com/heptiolabs/cruise/blob/master/deployment/cruise.yaml
+    % kubectl apply -f https://raw.githubusercontent.com/heptiolabs/cruise/master/deployment/cruise.yaml
     ```
 2. Configure your Pingdom API credentials
     ```
